@@ -1,37 +1,36 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Shivam Oraon</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Mohd Khalid</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;400%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
 
-- 🔭 I’m currently working on [blue-whisper-app](https://github.com/OraonShivam21/blue-whisper-app)
+- 🔭 I’m currently working on [chat-app](https://github.com/khalid3886/chat-app)
 
 - 🌱 I’m currently learning **Redis, AWS, and Passport**
 
-- 👨‍💻 All of my projects are available at [https://OraonShivam21.github.io/](https://OraonShivam21.github.io/)
+- 👨‍💻 All of my projects are available at [https://khalid3886.github.io/](https://khalid3886.github.io/)
 
-- 💬 Ask me about **react, node.js, mongodb**
+- 💬 Ask me about **java, node.js, mongodb**
 
-- 📫 How to reach me **oraonshivam.0302@gmail.com**
+- 📫 How to reach me **mohdkhalid3886@gmail.com**
 
-- 📄 Know about my experiences [profile-resume](https://drive.google.com/file/d/1FTnZPJ1KmoCWW_vjSby339VQBA0UsBPk/view?usp=sharing)
+- 📄 Know about my experiences [profile-resume](https://drive.google.com/file/d/15e-alzZDHghqxxXY8bCtB-P2npnRb1cr/view?usp=sharing)
 
-- ⚡ Fun facts: *I like watching moto-vlogs in YouTube and anime, reading manga and light novels, love music and beatboxing.*
+- ⚡ Fun facts: *I like reading ligh novels, mangas and watching football and cricket.*
 
 <hr>
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{OraonShivam21}/count.svg" alt="OraonShivam21" :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{khalid3886}/count.svg" alt="khalid3886" :: Visitor's Count" /></p>
 
 <hr>
 
 <h3 align="left">👨‍💻 Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@shivam-oraon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shivam-oraon" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/shivam-oraon-3b5790284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-oraon-3b5790284" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/oraonshivam21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oraonshivam21" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohd-khalid-7a4339207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-khalid-7a4339207" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/fw28_112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fw28_112" height="40" width="50" /></a>
 </p>
 <br />
 
@@ -60,9 +59,6 @@
 
 <!-- React -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" >
-
-<!-- Java -->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" >
 
 <!-- C++ -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" >
@@ -125,11 +121,11 @@
 
 <h3 align="left">🖥️ Github Stats:</h3>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oraonshivam21&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" alt="oraonshivam21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid3886&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" alt="khalid3886" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=oraonshivam21&show_icons=true&locale=en&theme=tokyonight" width="500" alt="oraonshivam21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid3886&show_icons=true&locale=en&theme=tokyonight" width="500" alt="khalid3886" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oraonshivam21&theme=tokyonight" width="500" alt="oraonshivam21" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid3886&theme=tokyonight" width="500" alt="khalid3886" />
 </p>
