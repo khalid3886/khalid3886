@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [chat-app](https://github.com/khalid3886/chat-app)
 
-- 🌱 I’m currently learning **Redis, AWS, and Passport**
+- 🌱 I’m currently learning **React, Oauth, and Passport**
 
 - 👨‍💻 All of my projects are available at [https://khalid3886.github.io/](https://khalid3886.github.io/)
 
